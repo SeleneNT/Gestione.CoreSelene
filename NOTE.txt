@@ -1,0 +1,4 @@
+Ho realizzato il wcf ed il rest, ho creato la console App ma per richiamare i metodi dell'interfaccia ho creato
+un Helper che mi ha sballato tutto. 
+Non prende più le entities nè i riferimenti ad altre classi quindi non ho potuto testare questa parte perchè mi manda tutta
+una serie di errori di compatibilità e mancanza di riferimento
